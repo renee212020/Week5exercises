@@ -1,0 +1,42 @@
+body{
+	color:black;
+	background-color:green;
+}
+
+
+#wrapper{
+	width:850px;
+	margin:0 auto;
+	background-color:green;
+}
+
+
+#leftbody{
+	float:left;
+	width:200px;
+	height: 200px;
+	background-color:blue;
+	position:relative;
+	left:90px;
+	padding-top:10px;
+
+}
+#rightbody{
+	float:right;
+	width:200px;
+	height:200px;
+	background-color:red;
+	position:relative;
+	right:50px;
+  padding-top:10px;
+}
+
+#bottom{
+	width:210px;
+	height:210px;
+	background-color:yellow;
+	position:relative;
+	left:345px;
+	clear:both;
+
+}
